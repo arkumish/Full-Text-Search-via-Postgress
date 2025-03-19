@@ -1,5 +1,6 @@
-package com.fts.backend;
+package com.fts.backend.service;
 
+import com.fts.backend.dto.SearchResultDTO;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
 import jakarta.persistence.Query;

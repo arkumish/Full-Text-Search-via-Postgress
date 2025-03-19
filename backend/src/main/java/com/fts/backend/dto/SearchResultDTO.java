@@ -1,4 +1,4 @@
-package com.fts.backend;
+package com.fts.backend.dto;
 
 
 public class SearchResultDTO {
